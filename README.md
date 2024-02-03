@@ -9,15 +9,15 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sudharsanam-d/" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudhar" height="30"
+            src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="sudhar" height="30"
             width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100025441718833" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sudhar" height="30"
+            src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="sudhar" height="30"
             width="40" /></a>
     <a href="https://www.instagram.com/__sudhar.31__/" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sudhar" height="30"
+            src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="sudhar" height="30"
             width="40" /></a>
-    <a href="mailto: sudhar.dss@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg"
+    <a href="mailto: sudhar.dss@gmail.com"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg"
             height="30" width="40" /></a>
 </p>
 </p>
