@@ -12,7 +12,7 @@
             src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="sudhar" height="30"
             width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100025441718833" target="blank"><img align="center"
-            src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="sudhar" height="30"
+            src="https://www.svgrepo.com/show/354981/facebook-option.svg" alt="sudhar" height="30"
             width="40" /></a>
     <a href="https://www.instagram.com/__sudhar.31__/" target="blank"><img align="center"
             src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="sudhar" height="30"
