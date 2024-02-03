@@ -17,7 +17,7 @@
     <a href="https://www.instagram.com/__sudhar.31__/" target="blank"><img align="center"
             src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="sudhar" height="30"
             width="40" /></a>
-    <a href="mailto: sudhar.dss@gmail.com"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg"
+    <a href="mailto: sudhar.dss@gmail.com"><img align="center" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg"
             height="30" width="40" /></a>
 </p>
 </p>
